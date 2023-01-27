@@ -1,6 +1,6 @@
 # HW01: Review of CS1A Functions
 
-## Firstname Lastname
+## Kyle Larson
 
 TODO - Update your name in this readme
 
