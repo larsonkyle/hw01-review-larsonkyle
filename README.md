@@ -2,7 +2,6 @@
 
 ## Kyle Larson
 
-TODO - Update your name in this readme
 
 ![hw01](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
