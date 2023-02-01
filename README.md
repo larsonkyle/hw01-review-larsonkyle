@@ -3,7 +3,7 @@
 ## Kyle Larson
 
 
-![hw01](https://github.com/saddleback-college-cs1b/hw01-review-larsonkyle/actions/workflows/main.yml/badge.svg)
+![hw01](https://github.com/saddleback-college-cs1b/hw01-review-larsonkyle/actions/workflows/hw01_tests.yml/badge.svg)
 
 ## Problem Statement
 
