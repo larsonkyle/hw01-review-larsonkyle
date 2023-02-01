@@ -4,7 +4,7 @@
 
 TODO - Update your name in this readme
 
-TODO - Add a badge to github actions here (see references for documentation)
+![hw01](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
 ## Problem Statement
 
