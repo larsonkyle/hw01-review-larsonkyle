@@ -1,5 +1,6 @@
 # ifndef _CIRCLE_H_
 # define _CIRCLE_H_
+#include <cmath>
 
 double distance (double x1, double y1, double x2, double y2);
 
