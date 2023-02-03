@@ -1,0 +1,32 @@
+Script started on 2023-02-02 16:43:44-08:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="203" LINES="62"]
+]0;stdsoul@csvm: ~/cs1b_course/homework/hw01-review-larsonkyle/src[01;32mstdsoul@csvm[00m:[01;34m~/cs1b_course/homework/hw01-review-larsonkyle/src[00m$ date
+Thu 02 Feb 2023 04:43:50 PM PST
+]0;stdsoul@csvm: ~/cs1b_course/homework/hw01-review-larsonkyle/src[01;32mstdsoul@csvm[00m:[01;34m~/cs1b_course/homework/hw01-review-larsonkyle/src[00m$ pwd
+/home/stdsoul/cs1b_course/homework/hw01-review-larsonkyle/src
+]0;stdsoul@csvm: ~/cs1b_course/homework/hw01-review-larsonkyle/src[01;32mstdsoul@csvm[00m:[01;34m~/cs1b_course/homework/hw01-review-larsonkyle/src[00m$ ls -l
+total 20
+-rwxrwxr-x 1 stdsoul stdsoul  372 Feb  2 16:24 [0m[01;32mcircle.cpp[0m
+-rwxrwxr-x 1 stdsoul stdsoul  232 Feb  1 01:43 [01;32mcircle.h[0m
+-rw-rw-r-- 1 stdsoul stdsoul 3072 Feb  2 16:41 circle.o
+-rwxrwxr-x 1 stdsoul stdsoul  139 Jan 26 17:29 [01;32mCMakeLists.txt[0m
+-rwxrwxr-x 1 stdsoul stdsoul  424 Feb  2 16:29 [01;32mhw01.cpp[0m
+-rw-rw-r-- 1 stdsoul stdsoul    0 Feb  2 16:43 hw01.scr
+]0;stdsoul@csvm: ~/cs1b_course/homework/hw01-review-larsonkyle/src[01;32mstdsoul@csvm[00m:[01;34m~/cs1b_course/homework/hw01-review-larsonkyle/src[00m$ g++ hw01.cpp -0[Ko hw01 circl.o[K[Ke.o 
+]0;stdsoul@csvm: ~/cs1b_course/homework/hw01-review-larsonkyle/src[01;32mstdsoul@csvm[00m:[01;34m~/cs1b_course/homework/hw01-review-larsonkyle/src[00m$ ./hw01
+Distance: 10.7506
+Radius: 10.7506
+Circumference: 67.5483
+Area: 363.093
+]0;stdsoul@csvm: ~/cs1b_course/homework/hw01-review-larsonkyle/src[01;32mstdsoul@csvm[00m:[01;34m~/cs1b_course/homework/hw01-review-larsonkyle/src[00m$ ls -l
+total 40
+-rwxrwxr-x 1 stdsoul stdsoul   372 Feb  2 16:24 [0m[01;32mcircle.cpp[0m
+-rwxrwxr-x 1 stdsoul stdsoul   232 Feb  1 01:43 [01;32mcircle.h[0m
+-rw-rw-r-- 1 stdsoul stdsoul  3072 Feb  2 16:41 circle.o
+-rwxrwxr-x 1 stdsoul stdsoul   139 Jan 26 17:29 [01;32mCMakeLists.txt[0m
+-rwxrwxr-x 1 stdsoul stdsoul 17808 Feb  2 16:44 [01;32mhw01[0m
+-rwxrwxr-x 1 stdsoul stdsoul   424 Feb  2 16:29 [01;32mhw01.cpp[0m
+-rw-rw-r-- 1 stdsoul stdsoul     0 Feb  2 16:43 hw01.scr
+]0;stdsoul@csvm: ~/cs1b_course/homework/hw01-review-larsonkyle/src[01;32mstdsoul@csvm[00m:[01;34m~/cs1b_course/homework/hw01-review-larsonkyle/src[00m$ exit
+exit
+
+Script done on 2023-02-02 16:45:02-08:00 [COMMAND_EXIT_CODE="0"]
